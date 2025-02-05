@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adhil\\source\\repos\\webappication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|c:\\users\\adhil\\source\\repos\\webappication1\\webappication1\\repository\\eventrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\repository\\eventrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\event\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\event\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\event\\resetpasword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\event\\resetpasword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\event\\registrtion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\event\\registrtion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\event\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\event\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\models\\regmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\models\\regmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\event\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\event\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5FCCC3E5-52C3-46F5-9838-640CB274DDFB}|webappication1\\webappication1.csproj|solutionrelative:webappication1\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resetpasword.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\Resetpasword.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\event\\Resetpasword.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\Resetpasword.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\event\\Resetpasword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T04:28:29.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eventrepositry.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Repository\\Eventrepositry.cs",
+              "RelativeDocumentMoniker": "webappication1\\Repository\\Eventrepositry.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Repository\\Eventrepositry.cs",
+              "RelativeToolTip": "webappication1\\Repository\\Eventrepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:32:39.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eventController.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Controllers\\eventController.cs",
+              "RelativeDocumentMoniker": "webappication1\\Controllers\\eventController.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Controllers\\eventController.cs",
+              "RelativeToolTip": "webappication1\\Controllers\\eventController.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAApwGgBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:06:45.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registrtion.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\registrtion.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\event\\registrtion.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\registrtion.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\event\\registrtion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T04:21:56.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Web.config",
+              "RelativeDocumentMoniker": "webappication1\\Web.config",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Web.config",
+              "RelativeToolTip": "webappication1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T09:19:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\admin.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\event\\admin.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\admin.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\event\\admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T09:22:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "webappication1\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "webappication1\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:32:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "webappication1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "webappication1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:32:18.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Signin.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\Signin.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\Home\\Signin.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\Signin.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\Home\\Signin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:58:20.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "webappication1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "webappication1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:26:10.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webappication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webappication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:08:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\readme.md",
+              "RelativeDocumentMoniker": "webappication1\\readme.md",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\readme.md",
+              "RelativeToolTip": "webappication1\\readme.md",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-10T09:09:46.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:09:22.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\Login.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\event\\Login.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\Login.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\event\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T09:13:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T04:46:11.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Adduser.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\Adduser.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\event\\Adduser.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\event\\Adduser.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\event\\Adduser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:51:04.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "webappication1\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Login.aspx.cs",
+              "RelativeToolTip": "webappication1\\Login.aspx.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:17:02.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Regmodel.cs",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Models\\Regmodel.cs",
+              "RelativeDocumentMoniker": "webappication1\\Models\\Regmodel.cs",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Models\\Regmodel.cs",
+              "RelativeToolTip": "webappication1\\Models\\Regmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:31:55.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T08:13:26.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "webappication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "webappication1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T08:13:13.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Web.config",
+              "RelativeDocumentMoniker": "webappication1\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\adhil\\source\\repos\\webappication1\\webappication1\\Views\\Web.config",
+              "RelativeToolTip": "webappication1\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T09:19:20.147Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
