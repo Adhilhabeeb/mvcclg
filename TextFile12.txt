@@ -1,0 +1,82 @@
+login //
+USE [mvceventmanagement];
+GO
+
+CREATE PROCEDURE [dbo].[spCheckUserLogin]
+    @Email NVARCHAR(50),
+    @Password NVARCHAR(50),
+    @IsValid BIT OUTPUT -- Output parameter to indicate whether the login is valid
+AS
+BEGIN
+    -- Prevent extra result sets from interfering with execution
+    SET NOCOUNT ON;
+
+    -- Initialize the output variable
+    SET @IsValid = 0;
+
+    -- Check if the email and password match a record in the usertable
+    IF EXISTS (
+        SELECT 1 
+        FROM usertable
+        WHERE email = @Email AND password = @Password
+    )
+    BEGIN
+        SET @IsValid = 1; -- Set to 1 if a match is found
+    END
+END;
+
+GO
+
+
+
+  register//
+  USE mvcadhil;
+GO
+
+CREATE PROCEDURE InsertRegistration
+    @username NVARCHAR(100),
+    @email NVARCHAR(100),
+    @password NVARCHAR(255),
+    @created_at DATETIME
+AS
+BEGIN
+    INSERT INTO registration (username, email, password, created_at)
+    VALUES (@username, @email, @password, @created_at);
+END;
+GO
+
+
+update//
+USE mvcadhil;
+GO
+
+CREATE PROCEDURE UpdateRegistration
+    @id INT,  -- Assuming the primary key is 'id'
+    @username NVARCHAR(100),
+    @email NVARCHAR(100),
+    @password NVARCHAR(255),
+    @updated_at DATETIME
+AS
+BEGIN
+    UPDATE registration
+    SET 
+        username = @username,
+        email = @email,
+        password = @password,
+        updated_at = @updated_at
+    WHERE id = @id;
+END;
+GO
+
+
+delete
+USE mvcadhil;
+GO
+
+CREATE PROCEDURE DeleteRegistration
+    @id INT
+AS
+BEGIN
+    DELETE FROM registration WHERE id = @id;
+END;
+GO
